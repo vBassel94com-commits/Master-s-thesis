@@ -1,0 +1,82 @@
+Timestamp: 2023-07-05 10:30:15
+Sensor Type: Environmental
+Location: Office Building
+Sensor ID: OB-ENV-001
+
+Temperature: 25.3°C
+Humidity: 52%
+CO2 Level: 750 ppm
+Air Pressure: 1015 hPa
+
+Timestamp: 2023-07-05 10:30:30
+Sensor Type: Energy
+Location: Server Room
+Sensor ID: SR-ENERGY-001
+
+Power Consumption: 6.5 kW
+Voltage: 220 V
+Current: 29.5 A
+Power Factor: 0.92
+
+Timestamp: 2023-07-05 10:30:45
+Sensor Type: Vibration
+Location: Industrial Equipment
+Sensor ID: IE-VIB-001
+
+Vibration Level: 0.35 mm/s
+Frequency: 55 Hz
+Acceleration: 2.7 m/s²
+
+Timestamp: 2023-07-05 10:31:00
+Sensor Type: Air Quality
+Location: Laboratory
+Sensor ID: LB-AQ-001
+
+Particulate Matter (PM2.5): 15 μg/m³
+Particulate Matter (PM10): 25 μg/m³
+Volatile Organic Compounds (VOC): 180 ppb
+Carbon Monoxide (CO): 1 ppm
+
+Timestamp: 2023-07-05 10:31:15
+Sensor Type: Water Level
+Location: Reservoir
+Sensor ID: RS-WL-001
+
+Water Level: 82%
+Temperature: 12.8°C
+pH Level: 7.2
+
+Timestamp: 2023-07-05 10:31:30
+Sensor Type: Traffic
+Location: Intersection
+Sensor ID: IS-TRAFFIC-001
+
+Vehicle Count: 45
+Average Speed: 28 km/h
+Congestion Level: Moderate
+
+Timestamp: 2023-07-05 10:31:45
+Sensor Type: Sound
+Location: Auditorium
+Sensor ID: AD-SOUND-001
+
+Sound Level: 75 dB
+Frequency Range: 20 Hz - 20 kHz
+Sound Source: Speech
+
+Timestamp: 2023-07-05 10:32:00
+Sensor Type: Occupancy
+Location: Conference Room
+Sensor ID: CR-OCCUPY-001
+
+Occupancy Status: Occupied
+Number of People: 12
+
+Timestamp: 2023-07-05 10:32:15
+Sensor Type: GPS
+Location: Delivery Vehicle
+Sensor ID: DV-GPS-001
+
+Latitude: 40.7128° N
+Longitude: 74.0060° W
+Speed: 35 km/h

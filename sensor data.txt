@@ -1,0 +1,60 @@
+Timestamp: 2023-07-05 09:15:27
+Sensor Type: Temperature
+Location: Living Room
+Sensor ID: LR-TEMP-001
+Temperature: 23.5°C
+
+Timestamp: 2023-07-05 09:15:32
+Sensor Type: Humidity
+Location: Kitchen
+Sensor ID: KT-HUM-001
+Humidity: 45%
+
+Timestamp: 2023-07-05 09:15:38
+Sensor Type: Light
+Location: Bedroom
+Sensor ID: BD-LIGHT-001
+Light Intensity: 560 lux
+
+Timestamp: 2023-07-05 09:15:43
+Sensor Type: Motion
+Location: Garage
+Sensor ID: GR-MOTION-001
+Motion Detected: True
+
+Timestamp: 2023-07-05 09:15:49
+Sensor Type: CO2
+Location: Office
+Sensor ID: OF-CO2-001
+CO2 Level: 550 ppm
+
+Timestamp: 2023-07-05 09:15:54
+Sensor Type: Sound
+Location: Study Room
+Sensor ID: SR-SOUND-001
+Sound Level: 62 dB
+
+Timestamp: 2023-07-05 09:16:01
+Sensor Type: Pressure
+Location: Basement
+Sensor ID: BS-PRESS-001
+Pressure: 1011 hPa
+
+Timestamp: 2023-07-05 09:16:07
+Sensor Type: Proximity
+Location: Garden
+Sensor ID: GD-PROX-001
+Object Detected: True
+
+Timestamp: 2023-07-05 09:16:12
+Sensor Type: Air Quality
+Location: Nursery
+Sensor ID: NU-AQ-001
+Air Quality Index (AQI): 35
+
+Timestamp: 2023-07-05 09:16:18
+Sensor Type: GPS
+Location: Vehicle
+Sensor ID: VC-GPS-001
+Latitude: 37.7749° N
+Longitude: 122.4194° W
